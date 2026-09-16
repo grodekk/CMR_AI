@@ -1,0 +1,12 @@
+﻿.venv*/
+.idea/
+__pycache__/
+*.py[cod]
+data/
+outputs/
+**/*.[jJ][pP][gG]
+**/*.[jJ][pP][eE][gG]
+**/*.[pP][nN][gG]
+**/raw_*.json
+**/result.json
+**/error.json
